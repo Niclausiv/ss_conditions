@@ -1,5 +1,8 @@
 var __BLOCKEDSITES__ = [
-  "*.ua",
+  "*.whatismyipaddress.com",
+  "*.chat.openai.com",
+  "*.intel.com",
+  "*.dell.com",
   "*.10minutemail.com",
   "*.10minutemail.net",
   "*.15min.lt",
@@ -452,6 +455,7 @@ var __BLOCKEDSITES__ = [
   "*.tvrain.tv",
   "*.twimg.com",
   "*.twitter.com",
+  "*.ua",
   "*.unian.info",
   "*.unian.net",
   "*.upskillstutor.com",
