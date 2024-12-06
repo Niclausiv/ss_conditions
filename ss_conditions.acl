@@ -1,6 +1,11 @@
 [bypass_all]
 
 [proxy_list]
+(?:^|\.)whatismyipaddress\.com$
+(?:^|\.)chat.openai\.com$
+(?:^|\.)intel\.com$
+(?:^|\.)dell\.com$
+(?:^|\.)cisco\.com$
 (?:^|\.)*\.ua$
 (?:^|\.)10minutemail\.com$
 (?:^|\.)10minutemail\.net$
