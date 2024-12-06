@@ -3,6 +3,7 @@ var __BLOCKEDSITES__ = [
   "*.chat.openai.com",
   "*.intel.com",
   "*.dell.com",
+  "*.cisco.com",
   "*.10minutemail.com",
   "*.10minutemail.net",
   "*.15min.lt",
