@@ -4,7 +4,7 @@ var __BLOCKEDSITES__ = [
   "*.intel.com",
   "*.dell.com",
   "*.cisco.com",
-  "*.moscowtimes.ru",
+  "*.www.moscowtimes.ru",
   "*.10minutemail.com",
   "*.10minutemail.net",
   "*.15min.lt",
