@@ -6,6 +6,7 @@
 (?:^|\.)intel\.com$
 (?:^|\.)dell\.com$
 (?:^|\.)cisco\.com$
+(?:^|\.)moscowtimes.ru$
 (?:^|\.)*\.ua$
 (?:^|\.)10minutemail\.com$
 (?:^|\.)10minutemail\.net$
