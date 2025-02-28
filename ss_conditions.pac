@@ -5,7 +5,7 @@ var __BLOCKEDSITES__ = [
   "*.dell.com",
   "*.cisco.com",
   "*.microsoft.com",
-  "*.apps.microsoft.com",
+  "*.discord.com",
   "*.moscowtimes.ru",
   "*.www.moscowtimes.ru",
   "*.10minutemail.com",
