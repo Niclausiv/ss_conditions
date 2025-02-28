@@ -6,6 +6,8 @@
 (?:^|\.)intel\.com$
 (?:^|\.)dell\.com$
 (?:^|\.)cisco\.com$
+(?:^|\.)apps.microsoft\.com$
+(?:^|\.)microsoft\.com$
 (?:^|\.)moscowtimes.ru$
 (?:^|\.)www.moscowtimes.ru$
 (?:^|\.)*\.ua$
