@@ -3,6 +3,7 @@
 [proxy_list]
 (?:^|\.)whatismyipaddress\.com$
 (?:^|\.)chat.openai\.com$
+(?:^|\.)https://mandrillapp.com$
 (?:^|\.)intel\.com$
 (?:^|\.)dell\.com$
 (?:^|\.)cisco\.com$
