@@ -1,7 +1,7 @@
 var __BLOCKEDSITES__ = [
   "*.whatismyipaddress.com",
   "*.chat.openai.com",
-  "*.mandrillapp.com,
+  "*.mandrillapp.com",
   "*.intel.com",
   "*.dell.com",
   "*.cisco.com",
