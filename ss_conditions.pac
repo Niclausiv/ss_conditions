@@ -7,7 +7,7 @@ var __BLOCKEDSITES__ = [
   "*.cisco.com",
   "*.discord.com",
   "*.youtu.be",
-  "*.www.deepl.com",
+  "*.deepl.com",
   "*.moscowtimes.ru",
   "*.www.moscowtimes.ru",
   "*.10minutemail.com",
